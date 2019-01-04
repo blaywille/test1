@@ -1,5 +1,6 @@
 
 
+
 class MyClass(object):
     var1=1
 
@@ -8,3 +9,9 @@ class MyClass(object):
 
     def func(self):
         return 1
+
+
+
+
+if __name__ == "__main__":
+    MyClass()
