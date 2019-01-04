@@ -8,7 +8,9 @@ class MyClass(object):
         var2=0
 
     def func(self):
-        return 1
+        return 0
+
+
 
 
 
