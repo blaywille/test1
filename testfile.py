@@ -1,4 +1,4 @@
-
+# -*- coding: UTF-8 -*-
 
 
 class MyClass(object):
@@ -9,6 +9,8 @@ class MyClass(object):
 
     def func(self):
         return 1
+
+
 
 
 
