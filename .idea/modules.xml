@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/test.iml" filepath="$PROJECT_DIR$/.idea/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testfromGtCloneItFromGit/.idea/testfromGtCloneItFromGit.iml" filepath="$PROJECT_DIR$/../testfromGtCloneItFromGit/.idea/testfromGtCloneItFromGit.iml" />
     </modules>
   </component>
 </project>
