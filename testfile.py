@@ -10,6 +10,9 @@ class MyClass(object):
     def func(self):
         return 0
 
+    def next(self):
+        return 1
+
 
 
 
